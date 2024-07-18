@@ -2,6 +2,9 @@
 
 🌱 I am currently learning JAVA
 
+![ Estatísticas do GitHub de Deborah ] ( https://github-readme-stats.vercel.app/api?username=DehPantaleao&theme=shades-of-purple&show_icons=true )
+[ ![ Principais Langs ] ( https://github-readme-stats.vercel.app/api/top-langs/?username=DehPantaleao&layout=compact&theme=shades-of-purple&show_icons=true )] ( https://github. com/DehPantaleao/github-readme-stats )
+
 <br/>
 
 #### Technologies i use 💻
